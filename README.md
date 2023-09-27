@@ -1,2 +1,3 @@
 # institutesforR.K
-this is my git repository
+this is my git repository.
+Authur- kajal giri
